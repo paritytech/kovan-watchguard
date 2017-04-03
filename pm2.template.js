@@ -6,7 +6,7 @@
     "watch": true,
     "cwd": ".",
     "env": {
-      "SIGNER_ADDRESS": "<addressed to scan for and sign with>",
+      "SIGNER_ADDRESS": "<address to scan for and sign with>",
       "SIGNER_PASSWORD": "<address to unlock the signer address>",
       "SCAN_INTERVAL_SECONDS": 1800,
       "NUMBER_BLOCKS_TO_SCAN": 100
